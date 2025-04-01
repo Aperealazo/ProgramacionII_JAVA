@@ -56,7 +56,16 @@ Aquí encontrarán:
       <a href="https://docs.google.com/document/d/1RRfVrvHuLn2hfll0lPg1hcVPLYDlNQRJ/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true" target="_blank">
        ✍️ <b>Ejercicios Jueves 27-03</b> </a>
     - [✍️ Ejemplo: Libreria Random](Ejemplo-Clases/LibreriaRandom)
-       
+<p align="center">
+  <strong>PROGRAMACIÓN ORIENTADA A OBJETO :pushpin:</strong>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+- **📚 Teoría**:
+  - [📄 Introducción POO<sub>Ejemplo</sub>](https://docs.google.com/document/d/1ehwOvbfz_Qor9xM1GPexBVoYSYJF0XY3/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true)
+
 
 </details>  
 
