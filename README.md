@@ -42,40 +42,48 @@ Aquí encontrarán:
 
 <h3>💻 Ejemplos de Clase</h3>
 
-- [✅ Ejemplo :one:: Primer Programa en Java](Ejemplo-Clases/HolaQuinto.java)  
-- [✅ Ejemplo :two:: Variables y Tipos de Datos](Ejemplo-Clases/HolaQuinto.java)  
-- [✅ Ejemplo :three:: Concatenación](Ejemplo-Clases/ConcatenacionTexto.java)  
-- [✅ Ejemplo :four:: Entrada de Datos](Ejemplo-Clases/EntradaDeDatos.java)  
-- [✅ Ejemplo :five:: Condicionales](Ejemplo-Clases/Condicionales)  
-- [✅ Ejemplo :six:: Bucles](Ejemplo-Clases/Bucles)  
+<ul>
+  <li><a href="Ejemplo-Clases/HolaQuinto.java" target="_blank">✅ Ejemplo :one:: Primer Programa en Java</a></li>
+  <li><a href="Ejemplo-Clases/HolaQuinto.java" target="_blank">✅ Ejemplo :two:: Variables y Tipos de Datos</a></li>
+  <li><a href="Ejemplo-Clases/ConcatenacionTexto.java" target="_blank">✅ Ejemplo :three:: Concatenación</a></li>
+  <li><a href="Ejemplo-Clases/EntradaDeDatos.java" target="_blank">✅ Ejemplo :four:: Entrada de Datos</a></li>
+  <li><a href="Ejemplo-Clases/Condicionales" target="_blank">✅ Ejemplo :five:: Condicionales</a></li>
+  <li><a href="Ejemplo-Clases/Bucles" target="_blank">✅ Ejemplo :six:: Bucles</a></li>
+</ul>
 
----
+<hr>
 
 <h3>📝 Ejercicios - Tarea</h3>
 
-- [✍️ Ejercicio 1: Imprimir "Hola Mundo"](Ejemplo-Clases/HolaQuinto.java)  
-- <a href="https://docs.google.com/document/d/197Jj-0qkYLfQORIxvMjSFOuFhDOM5oP1/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true" target="_blank">✍️ <b>PDF Ejercicios 25-03</b></a>
+<ul>
+  <li><a href="Ejemplo-Clases/HolaQuinto.java" target="_blank">✍️ Ejercicio 1: Imprimir "Hola Mundo"</a></li>
+  <li><a href="https://docs.google.com/document/d/197Jj-0qkYLfQORIxvMjSFOuFhDOM5oP1/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true" target="_blank">✍️ <b>PDF Ejercicios 25-03</b></a></li>
+</ul>
 
 </td>
 <td valign="top" width="50%">
 
 <h3>📄 Conversión de Tipos de Datos en Java</h3>
 
-- [:one: Ejemplo: Parseo de Datos](Ejemplo-Clases/Conversion_Datos/ParseoDatos.java)  
-- [✍️ Ejemplo: Librería Random](Ejemplo-Clases/LibreriaRandom)  
-- <a href="https://docs.google.com/document/d/1RRfFrvHuLn2hfll0lPg1hcVPLYDlNQRJ/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true" target="_blank">✍️ <b>Ejercicios Jueves 27-03</b></a>
+<ul>
+  <li><a href="Ejemplo-Clases/Conversion_Datos/ParseoDatos.java" target="_blank">:one: Ejemplo: Parseo de Datos</a></li>
+  <li><a href="Ejemplo-Clases/LibreriaRandom" target="_blank">✍️ Ejemplo: Librería Random</a></li>
+  <li><a href="https://docs.google.com/document/d/1RRfFrvHuLn2hfll0lPg1hcVPLYDlNQRJ/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true" target="_blank">✍️ <b>Ejercicios Jueves 27-03</b></a></li>
+</ul>
 
----
+<hr>
 
 <p align="center">
-  <strong>PROGRAMACIÓN ORIENTADA A OBJETOS :pushpin:</strong><br><br>
+  <strong>PROGRAMACIÓN ORIENTADA A OBJETOS 📌</strong><br><br>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%">
 </p>
 
 <h3>📚 Teoría</h3>
 
-- [📄 Introducción POO <sub>Ejemplo</sub>](https://docs.google.com/document/d/1ehwOvbfz_Qor9xM1GPexBVoYSYJF0XY3/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true)  
-- [📄 Más teoría sobre POO](https://docs.google.com/document/d/1argteP9DzCS_erEmnzjK536YpWNIEdYfpiH7o4XjihQ/edit?usp=sharing)
+<ul>
+  <li><a href="https://docs.google.com/document/d/1ehwOvbfz_Qor9xM1GPexBVoYSYJF0XY3/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true" target="_blank">📄 Introducción POO <sub>Ejemplo</sub></a></li>
+  <li><a href="https://docs.google.com/document/d/1argteP9DzCS_erEmnzjK536YpWNIEdYfpiH7o4XjihQ/edit?usp=sharing" target="_blank">📄 Más teoría sobre POO</a></li>
+</ul>
 
 </td>
   </tr>
