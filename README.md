@@ -83,7 +83,7 @@ Aquí encontrarán:
   <li><a href="https://docs.google.com/document/d/1ehwOvbfz_Qor9xM1GPexBVoYSYJF0XY3/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true" target="_blank">📄 Introducción POO <sub>Ejemplo</sub></a></li>
   <li><a href="https://docs.google.com/document/d/1argteP9DzCS_erEmnzjK536YpWNIEdYfpiH7o4XjihQ/edit?usp=sharing" target="_blank">📄 Más teoría sobre POO</a></li>
   <li><a href="https://docs.google.com/document/d/1laEHmI5n88DhCel93EacpsK955VmdSkx-mb2utGwFwU/edit?usp=sharing" target="_blank">✍️ <b>Tarea: Jueves 03-04</b></a></li>
-  <li><a href="https://docs.google.com/document/d/1RRfFrvHuLn2hfll0lPg1hcVPLYDlNQRJ/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true" target="_blank">✍️ <b>Tarea: Martes 08-04</b></a></li>
+  <li><a href="https://docs.google.com/document/d/15biim3gGLuFIG_HryXZWvCa_wscg_OL85lJQIKMN6PI/edit?usp=sharing" target="_blank">✍️ <b>Tarea: Martes 08-04</b></a></li>
 
 
 </ul>
