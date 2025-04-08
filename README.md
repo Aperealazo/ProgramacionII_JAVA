@@ -19,8 +19,7 @@ Aquí encontrarán:
 
 ### 1. **:beginner: Módulo 1: Fundamentos de Java**  
 
-<details>
-<summary> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" height="32" style="vertical-align: middle; margin-right: 8px;"> Haz clic para ver los temas</summary>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">         
 <p align="center">
 <strong>INTRODUCCIÓN A JAVA :pushpin:</strong>
