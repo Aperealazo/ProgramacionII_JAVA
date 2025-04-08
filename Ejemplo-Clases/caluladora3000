@@ -1,0 +1,67 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package JOptionPane;
+
+import javax.swing.JOptionPane;
+
+/**
+ *
+ * @author ALEX
+ */
+public class Caluculadora {
+    public double sumar(double a, double b) {
+        return a + b;
+    }
+
+    public double restar(double a, double b) {
+        return a - b;
+    }
+
+    public double multiplicar(double a, double b) {
+        return a * b;
+    }
+
+    public double dividir(double a, double b) {
+        if (b != 0) {
+            return a / b;
+        } else {
+            JOptionPane.showMessageDialog(null, "No se puede dividir por cero");
+            return 0;
+        }
+    }
+
+    public static void main(String[] args) {
+        Caluculadora calc = new Caluculadora();
+
+        String opcion = JOptionPane.showInputDialog(
+                "Calculadora:\n1. Sumar\n2. Restar\n3. Multiplicar\n4. Dividir");
+
+        double num1 = Double.parseDouble(JOptionPane.showInputDialog("Ingrese el primer número:"));
+        double num2 = Double.parseDouble(JOptionPane.showInputDialog("Ingrese el segundo número:"));
+
+        double resultado = 0;
+
+        switch (opcion) {
+            case "1":
+                resultado = calc.sumar(num1, num2);
+                break;
+            case "2":
+                resultado = calc.restar(num1, num2);
+                break;
+            case "3":
+                resultado = calc.multiplicar(num1, num2);
+                break;
+            case "4":
+                resultado = calc.dividir(num1, num2);
+                break;
+            default:
+                JOptionPane.showMessageDialog(null, "Opción inválida");
+                return;
+        }
+
+        JOptionPane.showMessageDialog(null, "El resultado es: " + resultado);
+    }
+    
+}
