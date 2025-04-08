@@ -84,7 +84,6 @@ Aquí encontrarán:
   <li><a href="https://docs.google.com/document/d/1argteP9DzCS_erEmnzjK536YpWNIEdYfpiH7o4XjihQ/edit?usp=sharing" target="_blank">📄 Más teoría sobre POO</a></li>
   <li><a href="https://docs.google.com/document/d/1laEHmI5n88DhCel93EacpsK955VmdSkx-mb2utGwFwU/edit?usp=sharing" target="_blank">✍️ <b>Tarea: Jueves 03-04</b></a></li>
   <li><a href="https://docs.google.com/document/d/15biim3gGLuFIG_HryXZWvCa_wscg_OL85lJQIKMN6PI/edit?usp=sharing" target="_blank">✍️ <b>Tarea: Martes 08-04</b></a></li>
-  <li><a href="Ejemplo-Clases/caluladora3000" target="_blank">✅ Ejemplo :six:: Calcu</a></li> 
 
 
 
