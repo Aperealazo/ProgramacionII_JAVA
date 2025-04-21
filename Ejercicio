@@ -1,0 +1,36 @@
+CREATE DATABASE AP_BD;
+USE AP_BD;
+
+CREATE TABLE Alumno(
+    id INT PRIMARY KEY,
+    nombre VARCHAR(50),
+    apellido VARCHAR(50),
+    edad INT,
+    fecha_ingreso DATE
+);
+
+CREATE TABLE Curso (
+    id INT PRIMARY KEY,
+    nombre VARCHAR(50)
+);
+Select * from Alumno;
+Select * from Curso;
+Select * from Inscripcion;
+
+CREATE TABLE Inscripcion (
+    idinscripcion INT PRIMARY KEY,
+    id_alumno INT FOREIGN KEY REFERENCES Alumno(id),
+    id_curso INT FOREIGN KEY REFERENCES Curso(id)
+);
+
+INSERT INTO Alumno (id, nombre, apellido, edad, fecha_ingreso)
+VALUES (1, 'Sofía', 'Gómez' ,   17, '2025-03-05');
+
+INSERT INTO Alumno (id, nombre, apellido, edad, fecha_ingreso)
+VALUES (2, 'Lenis', 'Rios' ,18, '2020-02-21');
+
+insert into Curso (id,nombre) values (1,'Programacio II'),(2,'Base de datos');
+
+insert into Inscripcion (idinscripcion,id_alumno,id_curso) values (1,1,2),(2,2,2);
+
+select * from Inscripcion;
